@@ -1,0 +1,13 @@
+img{
+float: left;
+padding:10px;
+}
+p{
+font-size:35px;
+font-family:Lucida Handwriting,Cursive
+}
+.flex-container{
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap:nowrap;
+}
